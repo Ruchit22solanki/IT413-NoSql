@@ -19,7 +19,7 @@
    - [SourceCode](https://github.com/Ruchit22solanki/IT413-NoSql/blob/master/201701199_LAB1/LAB1_Q4/DownloadData.java)
 
 # Question:4 List Timestamp and URL for which http response status has been 404
- -Map Reduce program returns the list of Timestamp and URL for which response status has been 404 
+ - Map Reduce program returns the list of Timestamp and URL for which response status has been 404 
    - [Input](https://github.com/Ruchit22solanki/IT413-NoSql/blob/master/201701199_LAB1/LAB1_Q5/Input/Q5_Input.txt)
    - [Output](https://github.com/Ruchit22solanki/IT413-NoSql/tree/master/201701199_LAB1/LAB1_Q5/Output/Q5_Output.txt)
    - [SourceCode](https://github.com/Ruchit22solanki/IT413-NoSql/blob/master/201701199_LAB1/LAB1_Q5/Error404.java)
