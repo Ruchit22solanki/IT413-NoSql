@@ -3,7 +3,7 @@
 # Question:2 Find the maximum temperature from the given data
  - Input file contains NCDC weather data from which Map Reduce program returns yearly the Maximum Temperature recorded. 
    - [Input](https://github.com/Ruchit22solanki/IT413-NoSql/blob/master/201701199_LAB1/LAB1_Q2/Input/Q2_Input.txt)
-   - [Output](https://github.com/Ruchit22solanki/IT413-NoSql/tree/master/201701199_LAB1/LAB1_Q2/Q2_Output.txt)
+   - [Output](https://github.com/Ruchit22solanki/IT413-NoSql/blob/master/201701199_LAB1/LAB1_Q2/Output/Q2_Output.txt)
    - [SourceCode](https://github.com/Ruchit22solanki/IT413-NoSql/blob/master/201701199_LAB1/LAB1_Q2/MaxTemperature.java)
 
 # Question:3 Find the number of occurences of .jpg, .gif and other image files
